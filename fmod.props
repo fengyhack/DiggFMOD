@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Label="PropertySheets" />
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <IncludePath>D:\FMOD\api\studio\inc;D:\FMOD\api\lowlevel\inc;D:\FMOD\api\fsbank\inc;$(IncludePath)</IncludePath>
+    <LibraryPath>D:\FMOD\api\studio\lib;D:\FMOD\api\lowlevel\lib;D:\FMOD\api\fsbank\lib;$(LibraryPath);D:\IrrKlang\lib;D:\DrectX9\Lib\x86;D:\OpenCV\lib</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup />
+  <ItemGroup />
+</Project>
